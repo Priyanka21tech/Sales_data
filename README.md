@@ -8,5 +8,6 @@ Sales data analysis trend using PowerBI visualization tool tat covers the follow
 5) Average discount offered in each discount category.
 6) Total number of orders.
 7) Show Sales/Profit/Discount/Net Sales/All remaining fields for each order that could be filtered using visual filters. (Product/Date/Customer ID/Promotion Categories)
-8) Show sales by different cities.
+8) Show sales by different cities.
+   
 
